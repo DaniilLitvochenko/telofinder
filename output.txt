@@ -1,0 +1,8 @@
+Sequence: contig_1
+0 0
+Sequence: contig_10
+5 300
+0 0
+Sequence: contig_100
+20 400
+0 0
